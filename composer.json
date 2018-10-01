@@ -3,6 +3,6 @@
     "description": "v.1.0",
     "type": "1",    
     "require": {
-    "php": "^7.2.10"
+    "php": "^7.2.4"
   }
 }
