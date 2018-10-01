@@ -1,3 +1,5 @@
+composer.phar
+/vendor/
 # Stylesheets
 .sass-cache/
 *.css.map
@@ -9,4 +11,4 @@ node_modules/
 *.js.map
 
 # Misc
-.DS_Store /vendor/
+.DS_Store 
