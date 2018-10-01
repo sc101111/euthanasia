@@ -1,0 +1,8 @@
+{
+    "name": "simon/hum-multi",
+    "description": "v.1.0",
+    "type": "1",    
+    "require": {
+    "php": "^7.2.10"
+  }
+}
