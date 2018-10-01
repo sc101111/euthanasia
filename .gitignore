@@ -9,4 +9,4 @@ node_modules/
 *.js.map
 
 # Misc
-.DS_Store
+.DS_Store /vendor/
